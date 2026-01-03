@@ -11,4 +11,6 @@ redirect_from:
 
 ## Hi,
 
-I am a postdoctoral fellow at the Department of Psychiatry, University of Michigan Medicine.
+I am a postdoctoral fellow.
+
+Find my CV [here](../files/cvname.pdf)
