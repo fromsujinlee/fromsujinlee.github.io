@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Presentations"
-permalink: /presentations/
+title: "Clinical Practice"
+permalink: /clinics/
 author_profile: true
 ---
 
