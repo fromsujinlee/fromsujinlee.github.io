@@ -6,9 +6,8 @@ author_profile: true
 ---
 {% include base_path %}
 
-The main themes of my projects include (1) pensions and economic inequality, (2) labour market inequalities and social policy, (3) the political economy of welfare state reforms, and (4) work-family reconciliation and demographic outcomes.
+My research description.
 My doctoral thesis can be openly accessed through [Oxford University Research Archive](https://ora.ox.ac.uk/objects/uuid:9b64014a-4796-4150-b772-40f323fb2ce1).
-For transparency and reproducibility of research, I intend to share replication files for all my studies as they are published. The website is being updated accordingly. 
 
 ## 1. Pensions and Economic Inequality
 
