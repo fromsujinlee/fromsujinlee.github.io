@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &KunLeeSoPol
+  username               :
 facebook:
   username               :
   app_id                 :
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Kun Lee"
+  name             : "Sujin Lee"
   avatar           : "Phto2023.jpg"
   bio              : "Social Policy Researcher"
   location         :
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=3J5wKd4AAAAJ&hl=ko&oi=sra"
-  email            : "kun.lee@liser.lu"
+  googlescholar    : "https://scholar.google.com/citations?user=eolW5u8AAAAJ&hl=en&oi=ao"
+  email            : "sujinlee@med.umich.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -102,15 +102,15 @@ author:
   instagram        :
   impactstory      :
   lastfm           :
-  linkedin         : "kun-lee-26b39413a"
-  orcid            : "https://orcid.org/0000-0001-9593-9317"
+  linkedin         : "sujin-lee-836678219"
+  orcid            : "https://orcid.org/0000-0002-7649-2887"
   pinterest        :
   soundcloud       :
   stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "@KunLeeSoPol"
-  bluesky          : "https://bsky.app/profile/kunlee.bsky.social"
+  twitter          : 
+  bluesky          : 
   vine             :
   weibo            :
   xing             :
